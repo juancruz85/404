@@ -15,5 +15,5 @@ https://juancruz85.github.io/digital-portfoilio/
 
 ## Version History
 
-- 0.1
+- 1.0
   - Initial Release
