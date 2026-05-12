@@ -6,7 +6,6 @@ It's a basic 404 page. This page was made for a small school project. No planned
 
 Visit this link to visit the website: https://juancruz85.github.io/404/
 
-```
 Currently hosted on GitHub Pages.
 
 ## Author
@@ -16,6 +15,5 @@ https://juancruz85.github.io/digital-portfoilio/
 
 ## Version History
 
-* 0.1
-    * Initial Release
-```
+- 0.1
+  - Initial Release
